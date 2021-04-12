@@ -1,0 +1,33 @@
+STATISTICS WORKSHEET 3
+1.OPTION B 
+2.OPTION C
+3.OPTION A
+4.OPTION A
+5.OPTION C
+6.OPTION A
+7.OPTION B
+8.OPTION D
+9.OPTION A
+
+10. BAYES'S THEOREM- Bayes Theorem provides a principled way for calculating a conditional probability.
+Conditional probability is the likelihood of an outcome occurring, based on a previous outcome occurring. 
+Bayes' theorem provides a way to revise existing predictions or theories (update probabilities) given new or additional evidence.
+
+11. Z-SCORE- A Z-score is a numerical measurement that describes a value's relationship to the mean of a group of values.
+Z-score is measured in terms of standard deviations from the mean. If a Z-score is 0, it indicates that the data point's score is identical to the mean score. 
+A Z-score of 1.0 would indicate a value that is one standard deviation from the mean. 
+Z-scores may be positive or negative, with a positive value indicating the score is above the mean and a negative score indicating it is below the mean.
+
+12. T-TEST-A t-test is a type of inferential statistic used to determine if there is a significant difference between the means of two groups, which may be related in certain features. 
+The t-test is one of many tests used for the purpose of hypothesis testing in statistics.
+
+13. PERCENTILE- A percentile is a term used in statistics to express how a score compares to other scores in the same set. 
+While there is technically no standard definition of percentile, it's typically communicated as the percentage of values that fall below a particular value in a set of data scores.
+
+14. ANOVA-Analysis of variance, or ANOVA, is a statistical method that separates observed variance data into different components to use for additional tests.
+A one-way ANOVA is used for three or more groups of data, to gain information about the relationship between the dependent and independent variables.
+
+15.HOW CAN ANOVA HELP?
+ANOVA is helpful for testing three or more variables. It is similar to multiple two-sample t-tests. 
+However, it results in fewer type I errors and is appropriate for a range of issues. 
+ANOVA groups differences by comparing the means of each group and includes spreading out the variance into diverse sources.

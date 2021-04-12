@@ -1,0 +1,31 @@
+MACHINE LEARNING WORKSHEET 3
+1.OPTION D
+2.OPTION D
+3.OPTION C
+4.OPTION B
+5.OPTION D
+6.OPTION C
+7.OPTION D
+8.OPTION A
+9.OPTION A
+10.OPTION B
+11.OPTION A
+12.OPTION B
+
+13.why is clustering is important?
+Clustering analysis finds clusters of data objects that are similar in some sense to one another. The members of a cluster are more like each other than they are like members of other clusters. 
+The goal of clustering analysis is to find high-quality clusters such that the inter-cluster similarity is low and the intra-cluster similarity is high.
+
+Clustering, like classification, is used to segment the data. Unlike classification, clustering models segment data into groups that were not previously defined. 
+Classification models segment data by assigning it to previously-defined classes, which are specified in a target. Clustering models do not use a target.
+
+Clustering is useful for exploring data. If there are many cases and no obvious groupings, clustering algorithms can be used to find natural groupings. 
+Clustering can also serve as a useful data-preprocessing step to identify homogeneous groups on which to build supervised models.
+
+14.How can I improve my clustering performance?
+Clustering is an unsupervised machine learning methodology that aims to partition data into distinct groups, or clusters. 
+There are a few different forms including hierarchical, density, and similarity based. Each have a few different algorithms associated with it as well. 
+One of the hardest parts of any machine learning algorithm is feature engineering, which can especially be difficult with clustering as there is no easy way to figure out what best segments your data into separate but similar groups.
+The guiding principle of similarity based clustering is that similar objects are within the same cluster and dissimilar objects are in different clusters. 
+This is not different than the goal of most conventional clustering algorithms. With similarity based clustering, a measure must be given to determine how similar two objects are. 
+This similarity measure is based off distance, and different distance metrics can be employed, but the similarity measure usually results in a value in [0,1] with 0 having no similarity and 1 being identical.
